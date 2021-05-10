@@ -1,5 +1,5 @@
 # Lightbox plugin
-Modal window plugin.
+Modal window plugin (development in progress).
 
 ## Structure
 ```html
