@@ -1,0 +1,13 @@
+# IDE settings
+.idea
+.vscode/
+.vs
+
+# modules
+node_modules/
+
+# log files
+*.log
+
+# other
+.DS_Store

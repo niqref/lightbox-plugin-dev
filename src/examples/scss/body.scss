@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    min-width: 320px;
+    min-height: 100vh;
+
+    font-family: 'Roboto', sans-serif;
+
+    color: black;
+    background-color: white;
+
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
